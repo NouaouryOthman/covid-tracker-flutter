@@ -7,7 +7,7 @@
         android:label="covid_tracker">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDBkPes9zuGX0b1hmEs3ybkOzmnxVmdiPY" />
+            android:value="Your-Api-Key-Here" />
         <activity
             android:name=".MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
